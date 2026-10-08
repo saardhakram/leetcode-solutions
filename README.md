@@ -8,7 +8,7 @@ My LeetCode practice in **C and C++**, organised by topic. Every problem in the 
 
 | Solved | Easy | Medium | Languages |
 |:---:|:---:|:---:|:---:|
-| **21** | 17 | 4 | C, C++ |
+| **24** | 20 | 4 | C, C++ |
 
 ## 📁 By topic (with notes)
 
@@ -40,7 +40,10 @@ My LeetCode practice in **C and C++**, organised by topic. Every problem in the 
 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | Easy | Arrays | [C](14_richest_customer_wealth.c) |
 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | **Medium** | Matrix | [C](15_spiral_matrix_II.c) |
 | [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/) | Easy | Matrix | [C](16_reshape_matrix.c) |
+| [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | Sorting / hashing | [C](17_contains_duplicate.c) · [notes](17_contains_duplicate.md) |
+| [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | Easy | Dynamic programming | [C](18_climbing_stairs.c) · [notes](18_climbing_stairs.md) |
+| [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy | Trees / recursion | [C](19_max_depth_binary_tree.c) · [notes](19_max_depth_binary_tree.md) |
 
 ## 🎯 Next up
 
-Trees, hashing and dynamic programming, aiming for 3–5 problems a week.
+More medium problems in hashing, trees and dynamic programming (Group Anagrams, Binary Tree Level Order Traversal, House Robber), aiming for 3–5 problems a week.
